@@ -1,7 +1,7 @@
 This is the main project of Groupin'
 
 After cloning, run the following commands
-1. git submodule init --update --recursive
+1. git submodule update --init --recursive
 2. cd backend && npm install
 3. cd frontend && npm install
 
