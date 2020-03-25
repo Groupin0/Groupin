@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = ../Groupin-Frontend
+	url = ../groupin-frontend
 [submodule "backend"]
 	path = backend
-	url = ../Groupin-Backend
+	url = ../groupin-backend
